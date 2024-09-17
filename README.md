@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vadym Guley</h1>
+<h1 align="center">Hi 👋, I'm Vadym Huley</h1>
 <h3 align="center">Senior Full Stack Developer</h3>
 <h5 align="center">Software developer with a technical background in Full stack engineering. Love new challenges and am always eager to learn new technologies.</h5>
 
